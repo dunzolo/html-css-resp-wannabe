@@ -1,5 +1,13 @@
 @media screen and (max-width:480px){
-    
+    .why-us{
+        background-color: black;
+        padding-top: 50px;
+    }
+
+    .steps{
+        margin-bottom: 0px;
+    }
+
     .container{
         width: 100%;
     }
